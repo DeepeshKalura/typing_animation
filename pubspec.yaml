@@ -2,7 +2,7 @@ name: typing_animation
 version: 0.0.1
 description: A Flutter package to implement an animated typing effect for text with customizable styles.
 
-homepage: https://github.com/your-username/typing_animation
+homepage: https://github.com/DeepeshKalura/typing_animation
 environment:
   sdk: ">=2.19.6 <3.0.0"
 dependencies:
